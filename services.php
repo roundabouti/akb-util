@@ -146,7 +146,7 @@
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-6">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h3 class="text-danger-custom text-center text-xl-left">УСЛУГИ</h3>
+                                        <h1 class="text-danger-custom text-center text-xl-left">УСЛУГИ</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">
@@ -214,54 +214,51 @@
                         <div class="col-lg-12 px-4 pb-4 pt-3">
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="pt-3 px-3 col-lg-6">
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
+                                    <p class="text-danger-custom text-center text-xl-left"><a
                                             href="https://akb-util.ru/services/stati-i-dokumenty/">Статьи и
-                                        документы</a></h6>
+                                        документы</a></p>
                                         <hr>
-                                        <h6 class="text-danger-custom text-center text-xl-left"><a
+                                        <p class="text-danger-custom text-center text-xl-left"><a
                                                 href="https://akb-util.ru/services/priem-akb-ot-ibp/">Прием АКБ от
-                                            ИБП</a></h6>
+                                            ИБП</a></p>
                                         <hr>
 
                                 </div>
 
                                 <div class="pt-3 px-3 col-lg-6">
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
-                                            href="https://akb-util.ru/services/tsena-skupki/">Цена скупки</a></h6>
+                                    <p class="text-danger-custom text-center text-xl-left"><a
+                                            href="https://akb-util.ru/services/tsena-skupki/">Цена скупки</a></p>
                                     <hr>
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
-                                            href="https://akb-util.ru/services/vyvoz-akb/">Вывоз АКБ</a></h6>
+                                    <p class="text-danger-custom text-center text-xl-left"><a
+                                            href="https://akb-util.ru/services/vyvoz-akb/">Вывоз АКБ</a></p>
                                     <hr>
                                 </div>
 
                                 <div class="px-3 pb-3 col-lg-6">
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
+                                    <p class="text-danger-custom text-center text-xl-left"><a
                                             href="https://akb-util.ru/services/priem-i-utilizatsiya-tyagovykh-akkumulyatorov/">Приём
-                                        и утилизация тяговых аккумуляторов</a></h6>
+                                        и утилизация тяговых аккумуляторов</a></p>
                                     <hr>
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
+                                    <p class="text-danger-custom text-center text-xl-left"><a
                                             href="https://akb-util.ru/services/priem-gelevykh-akkumulyatorov/">Приём
-                                        гелевых аккумуляторов</a></h6>
+                                        гелевых аккумуляторов</a></p>
                                          <hr>
                                 </div>
 
                                 <div class="px-3 pb-3 col-lg-6">
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
-                                            href="https://akb-util.ru/services/priem-svintsa/">Приём свинца</a></h6>
+                                    <p class="text-danger-custom text-center text-xl-left"><a
+                                            href="https://akb-util.ru/services/priem-svintsa/">Приём свинца</a></p>
                                     <hr>
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
+                                    <p class="text-danger-custom text-center text-xl-left"><a
                                             href="https://akb-util.ru/services/priem-svintsovykh-akkumulyatorov/">Приём
-                                        свинцовых аккумуляторов</a></h6>
+                                        свинцовых аккумуляторов</a></p>
                                          <hr>
                                 </div>
 
                                 <div class="px-3 pb-3 col-lg-6">
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
-                                            href="https://akb-util.ru/services/priem-avtomobilnykh-akkumulyatorov/">Приём автомобильных аккумуляторов</a></h6>
+                                    <p class="text-danger-custom text-center text-xl-left"><a
+                                            href="https://akb-util.ru/services/priem-avtomobilnykh-akkumulyatorov/">Приём автомобильных аккумуляторов</a></p>
                                     <hr>
-                                    <h6 class="text-danger-custom text-center text-xl-left"><a
-                                            href="https://akb-util.ru/services/priem-svintsovykh-akkumulyatorov/"> </a></h6>
-                                             <hr>
                                 </div>
 
                             </div>

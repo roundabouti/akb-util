@@ -154,7 +154,7 @@
                                 <div class="col-12">
 
                                     <div class="pt-2 pl-0 text-left">
-                                        <h3 class="text-danger-custom text-center text-xl-left p-2">ПРИЕМ И УТИЛИЗАЦИЯ <br>АККУМУЛЯТОРОВ У СБОРЩИКОВ</h3>
+                                        <h1 class="text-danger-custom text-center text-xl-left p-2">ПРИЕМ И УТИЛИЗАЦИЯ <br>АККУМУЛЯТОРОВ У СБОРЩИКОВ</h1>
 
                                     </div>
                                 </div>

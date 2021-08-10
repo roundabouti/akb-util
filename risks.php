@@ -156,7 +156,7 @@
                                 <div class="col-xl-12">
 
                                     <div class="pt-2 pl-0 text-center text-xl-left">
-                                        <h3 class="text-danger-custom p-2">РИСКИ ПРИ СДАЧЕ АККУМУЛЯТОРОВ И<br>СВИНЦОВОГО ЛОМА НА УТИЛИЗАЦИЮ</h3>
+                                        <h1 class="text-danger-custom p-2">РИСКИ ПРИ СДАЧЕ АККУМУЛЯТОРОВ И<br>СВИНЦОВОГО ЛОМА НА УТИЛИЗАЦИЮ</h1>
 
                                     </div>
                                 </div>
@@ -445,7 +445,7 @@
                                                             <div class="col-lg-10">
                                                                 <div class="row">
                                                                     <div class="col-12 text-center text-lg-left px-3">
-                                                                        <h5><b>Будьте бдительны!</b></h5>
+                                                                        <p><b>Будьте бдительны!</b></p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="row">

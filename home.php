@@ -203,7 +203,6 @@
                     <div class="row">
                         <div class="col-lg-3"></div>
                         <div class="col-lg-6">
-                            <h1 class="text-center pt-2">Прием и утилизация аккумуляторов</h1>
                             <div class="text-center text-secondary px-3"><small>Мы осуществляем приём и утилизацию
                                 аккумуляторов бу
                                 и свинцового лома у физических и юридических лиц по лучшим ценам в Москве. Оплата
@@ -270,10 +269,6 @@ endif;
                  <img src="https://akb-util.ru/images/battery-slide-1636-1028.png" alt="battery image" class="d-block img-fluid">
 
                     <div class="carousel-caption">
-                        <div>
-                            <h2></h2>
-                           
-                        </div>
                     </div>
                 </a>
             </div>
@@ -285,10 +280,6 @@ endif;
                  <img src="https://akb-util.ru/images/battery-slide-2-1636-1028.png" alt="battery image 2" class="d-block img-fluid">
 
                     <div class="carousel-caption justify-content-center align-items-center">
-                        <div>
-                            <h2></h2>
-                            
-                        </div>
                     </div>
                 </a>
             </div>
@@ -329,10 +320,6 @@ endif;
                  <img src="https://akb-util.ru/images/battery-slide-lg.png" alt="battery image" class="d-block img-fluid">
 
                     <div class="carousel-caption">
-                        <div>
-                            <h2></h2>
-                           
-                        </div>
                     </div>
                 </a>
             </div>
@@ -344,10 +331,6 @@ endif;
                  <img src="https://akb-util.ru/images/battery-slide-lg-2.png" alt="battery image 2" class="d-block img-fluid">
 
                     <div class="carousel-caption justify-content-center align-items-center">
-                        <div>
-                            <h2></h2>
-                            
-                        </div>
                     </div>
                 </a>
             </div>
@@ -564,7 +547,7 @@ endif;
                                     <div class="thumbnail pb-3">
                                         <img  src="https://akb-util.ru/images/wallet.svg" alt="wallet image" width="100" height="50">
                                     </div>
-                                    <h6 class="font-weight-bold px-3 text-center">Самые высокие цены</h6>
+                                    <p class="font-weight-bold px-3 text-center">Самые высокие цены</p>
                                     <div class="text-secondary px-3 text-center"><small>Тесные связи с заводами
                                         переработчиками и большой опыт</small></div>
                                 </div>
@@ -572,7 +555,7 @@ endif;
                                     <div class="thumbnail pb-3">
                                         <img  src="https://akb-util.ru/images/battery-icon.svg" alt="battery" width="100" height="50">
                                     </div>
-                                    <h6 class="font-weight-bold px-3 text-center">Все виды АКБ</h6>
+                                    <p class="font-weight-bold px-3 text-center">Все виды АКБ</p>
 
                                     <div class="text-secondary px-3 text-center"><small>Залитые и сухие.
                                         Автомобильные, ИБП,
@@ -583,7 +566,7 @@ endif;
                                     <div class="thumbnail pb-3">
                                         <img  src="https://akb-util.ru/images/delivery-icon.svg" alt="доставка" width="100" height="50">
                                     </div>
-                                    <h6 class="font-weight-bold px-3 text-center">Заберём сегодня</h6>
+                                    <p class="font-weight-bold px-3 text-center">Заберём сегодня</p>
                                     <div class="text-secondary px-3 text-center"><small>Собственный транспорт и
                                         точный расчет на электронных весах</small></div>
                                 </div>
@@ -591,7 +574,7 @@ endif;
                                     <div class="thumbnail pb-3">
                                         <img  src="https://akb-util.ru/images/number-one-icon.svg" alt="номер один" width="100" height="50">
                                     </div>
-                                    <h6 class="font-weight-bold px-3 text-center">Все лицензии</h6>
+                                    <p class="font-weight-bold px-3 text-center">Все лицензии</p>
                                     <div class="text-secondary px-3 text-center"><small>Есть лицензии на переработку
                                         отходов 1 - 4 класса опасности</small></div>
                                 </div>
@@ -613,7 +596,7 @@ endif;
                     <div class="row">
                         <div class="col-lg-3"></div>
                         <div class="col-lg-6">
-                            <h2 class="text-center pt-2">Прием и утилизация аккумуляторов</h2>
+                            <h1 class="text-center pt-2">Прием и утилизация аккумуляторов</h1>
                             <div class="text-center text-secondary px-3"><small>Мы осуществляем приём и утилизацию
                                 аккумуляторов бу
                                 и свинцового лома у физических и юридических лиц по лучшим ценам в Москве. Оплата
@@ -641,7 +624,7 @@ endif;
                                     </div>
                                     <hr class="ml-2 my-0"/>
                                     <div class="col-12">
-                                        <h3 class="text-danger-custom my-0">О КОМПАНИИ</h3>
+                                        <p class="text-danger-custom my-0">О КОМПАНИИ</p>
 
                                         <p class="font-weight-bold m-0 pb-2 small">Компания ООО "СТАНДАРТ" работает с
                                             2014 года и ориентирована на
@@ -734,7 +717,7 @@ endif;
                         <div class="col-lg-12">
 
                             <div class="text-center pt-3 text-title-custom">
-                                <h2>Новости</h2>
+                                <p>Новости</p>
                             </div>
                             <div class="col-12 text-danger-custom px-0"><a href="https://akb-util.ru/services/stati-i-dokumenty/pochemu-akkumulyator-nachal-nepriyatno-pakhnut/">Неприятный запах от автомобильного аккумулятора</a></div>
                             <div class="col-12 px-0"><small><b>В салоне технически исправного автомобиля, как правило, отсутствуют резкие запахи...</b></small></div>
