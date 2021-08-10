@@ -135,7 +135,7 @@
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-6">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h2 class="text-danger-custom text-center text-xl-left">Статьи и документы</h2>
+                                        <h1 class="text-danger-custom text-center text-xl-left">Статьи и документы</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">

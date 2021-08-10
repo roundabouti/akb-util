@@ -123,36 +123,6 @@
                 </nav>
             </div>
         </div>
-        
-        
-        
-        
-        
-        
-        
-        
-
-  
- <div class="col-lg-12 d-xl-none   text-center">
-                        <div class="row pt-2 align-items-center justify-content-center">
-                            <div class="col-12 font-weight-bold">
-                                 <div class="font-weight-bold mb-0 mt-2"><h4>Телефон: <a href="tel:74951910793" class="roistatphone">+7 (495) 191-07-93</a></h4></div>
-                            </div>
-                        </div>
-                    </div>
-
- 
-         
-
-
-
- 
-
-
-
-
- 
-
 
 
                 <div data-aos="zoom-in-down" data-aos-duration="300">
@@ -222,7 +192,7 @@ endif;
 
 
 
- <h2 class="text-danger-custom p-3 mb-0">Цены на прием Б/У аккумуляторов</h2>
+ <p class="text-danger-custom p-3 mb-0">Цены на прием Б/У аккумуляторов</p>
 
 <div class="table-responsive">
 <table class="table table-hover">

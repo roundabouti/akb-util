@@ -448,9 +448,9 @@
                                 <div class="row align-items-center">
                                     <div class="col">
                                         <div class="left-block">
-                                            <h2 class="title color-dark-red">
+                                            <p class="title color-dark-red">
                                                 Заказать звонок
-                                            </h2>
+                                            </p>
                                             <div class="description">
                                                 Если вы намерены сдать старую АКБ, но не знаете, куда обратиться, чтобы
                                                 извлечь
@@ -713,9 +713,9 @@
                             </div>
                         </div>
                         <div class="col-12 block-form">
-                            <h2 class="title color-dark-red">
+                            <p class="title color-dark-red">
                                 Остались вопросы?
-                            </h2>
+                            </p>
                             <div class="description">
                                 Для консультации и заключения договора просто свяжитесь с нами
                             </div>

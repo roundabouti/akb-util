@@ -151,7 +151,7 @@
                                 <div class="col-xl-6 ">
 
                                     <div class="pt-2 px-3 text-left">
-                                        <h2 class="text-danger-custom p-2">КОНТАКТЫ</h2>
+                                        <h1 class="text-danger-custom p-2">КОНТАКТЫ</h1>
                                         <hr class="ml-0 my-0 p-0"/>
                                     </div>
 

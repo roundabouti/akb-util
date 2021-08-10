@@ -153,7 +153,7 @@
                         <!--!!!!justify-content-center-->
                         <div class="col-12 ">
                             <div class="pl-4 pt-3 text-left">
-                                <h3 class="text-danger-custom">Наши партнёры</h3>
+                                <h1 class="text-danger-custom">Наши партнёры</h1>
                             </div>
                         </div>
                         <div class="col-12">

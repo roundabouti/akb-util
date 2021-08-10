@@ -154,12 +154,12 @@
                                 <div class="col-xl-12">
 
                                     <div class="pt-2 pl-0 text-left">
-                                        <h3 class="text-danger-custom p-2">УТИЛИЗИРУЙТЕ АККУМУЛЯТОРЫ И СВИНЦОВЫЙ ЛОМ ПРАВИЛЬНО. ОБРАТИТЕСЬ В <a href="https://akb-util.ru/o-kompanii/">ООО "СТАНДАРТ"</a></h3>
+                                        <h1 class="text-danger-custom p-2">УТИЛИЗИРУЙТЕ АККУМУЛЯТОРЫ И СВИНЦОВЫЙ ЛОМ ПРАВИЛЬНО. ОБРАТИТЕСЬ В <a href="https://akb-util.ru/o-kompanii/">ООО "СТАНДАРТ"</a></h1>
                                         <p class="px-2 mb-0 font-weight-bold">Принимаем аккумуляторы, свинцовый лом и отходы, всех видов и в любом состоянии включенных в ФККО или по ГОСТ 16.392009. Подробнее о наших <a href="/services">услугах.</a> Ответы на часто задаваемые вопросы можно найти в разделе <a href="https://akb-util.ru/faq/">Вопросы и ответы</a> и <a href="https://akb-util.ru/info/">Юридическая информация</a></p>
                                         <p class="p-2">
 
                                             <ul class="red">
-    <h4 class="text-danger-custom text-left">Наши преимущества:</h4>
+    <p class="text-danger-custom text-left">Наши преимущества:</p>
     <li>Легко проходим необходимые <b>проверки служб экономической безопасности</b> и входим в реестр проверенных контрагентов крупных компаний
  </li>
     <li><b>Аттестованный персонал и собственный автопарк</b> для работы с отходами 1-4 классов опасности
@@ -342,7 +342,7 @@
                                                             <div class="col-lg-10">
                                                                 <div class="row">
                                                                     <div class="col-12 text-center text-lg-left px-3">
-                                                                        <h5><b>Будьте бдительны!</b></h5>
+                                                                        <p><b>Будьте бдительны!</b></p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="row">

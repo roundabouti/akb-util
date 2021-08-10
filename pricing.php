@@ -158,7 +158,7 @@
                             <div class="row pb-0 align-items-center ">
 
                                 <div class="col-xl-6 p-2 text-left">
-                                    <h3 class="text-danger-custom p-3 mb-0">ЦЕНА ПРИЁМА И УТИЛИЗАЦИИ АККУМУЛЯТОРОВ</h3>
+                                    <h1 class="text-danger-custom p-3 mb-0">ЦЕНА ПРИЁМА И УТИЛИЗАЦИИ АККУМУЛЯТОРОВ</h1>
                                     <hr class="ml-3 my-0 p-0"/>
                                 </div>
                                 <div class="col-xl-6">
@@ -373,9 +373,9 @@
                             <div class="row pb-0 align-items-center ">
 
                                 <div class="col-xl-7 p-2 text-left">
-                                    <h1 class="text-danger-custom p-3 mb-0" id="calculator">Калькулятор цен</h1>
+                                    <p class="text-danger-custom p-3 mb-0" id="calculator">Калькулятор цен</p>
                                      <hr class="mx-3 my-0 p-0"/>
-                                    <h4 class="text-danger-custom p-3 mb-0">Узнайте, сколько вы получите за акб и свинцовый лом</h4>
+                                    <h2 class="text-danger-custom p-3 mb-0">Узнайте, сколько вы получите за акб и свинцовый лом</h2>
                                     <hr class="mx-3 my-0 p-0"/>
                                 </div>
                                 <div class="col-xl-5">
@@ -384,7 +384,7 @@
                             </div>
 
                             <div class="row pb-0 align-items-center ">
-
+                                
                                 <div class="col-xl-5 px-4 pb-lg-3">
                                     <div class="row">
                                         <div class="col-xl-12"><b>ПЛАТИМ ДО 105 руб/кг ЗА СВИНЦОВЫЙ ЛОМ <br>И ДО 61

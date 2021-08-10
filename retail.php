@@ -159,7 +159,7 @@
                             <div class="row pb-0 align-items-center ">
 
                                 <div class="col-xl-6 p-2 text-left">
-                                    <h3 class="text-danger-custom p-3 mb-0">ПОКУПАЕМ БУ АККУМУЛЯТОРЫ У ЧАСТНЫХ ЛИЦ</h3>
+                                    <h1 class="text-danger-custom p-3 mb-0">ПОКУПАЕМ БУ АККУМУЛЯТОРЫ У ЧАСТНЫХ ЛИЦ</h1>
                                     <hr class="ml-3 my-0 p-0"/>
                                 </div>
                                 <div class="col-xl-6">
@@ -207,7 +207,7 @@
 
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="text-danger-custom p-3 mb-0">Вывоз нашим транспортом производим от веса в 100 кг.</h3>
+                                            <h2 class="text-danger-custom p-3 mb-0">Вывоз нашим транспортом производим от веса в 100 кг.</h2>
                                             <p class="font-weight-bold">
 
                                                 Наш автотранспорт
