@@ -15,7 +15,7 @@
             <div class="col-xl-5  justify-content-center align-self-center">
                 <div class="row py-2">
                     <div class="col-sm-2 d-flex align-items-center">
-                        <a href="/home">
+                        <a href="https://akb-util.ru/">
                             <img class="mx-auto d-none d-sm-block"  src="/images/standart-ooo-logo.svg" width="45"
                                  height="45">
                         </a>
@@ -76,7 +76,7 @@
                 <div class="collapse navbar-collapse align-items-center justify-content-center" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/home">ГЛАВНАЯ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
@@ -114,7 +114,7 @@
             <div class="col-12 ">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
-                        <li class="breadcrumb-item"><a href="/home">Главная</a></li>
+                        <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
                         <li class="breadcrumb-item"><a href="/business">Организациям</a></li>
                         <li class="breadcrumb-item"><a href="/services">Услуги</a></li>
                         <li class="breadcrumb-item"><a href="/services/stati-i-dokumenty">Статьи и документы</a></li>
