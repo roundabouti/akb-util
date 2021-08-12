@@ -5,7 +5,7 @@
 
 <title>Соглашение об условиях использования сайта - ООО Стандарт</title>
 <meta name="keywords" content="стандарт, информация" />
-<meta name="description" content="Юридическая информация" />
+<meta name="description" content="Соглашение об условиях использования сайта akb-util.ru . Прием и утилизация аккумуляторов и свинцового лома." />
 
 </head>
 <body>

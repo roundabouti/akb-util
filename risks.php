@@ -114,7 +114,7 @@
                             <a class="nav-link uline" href="/pricing">ЦЕНА</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="/risks">РИСКИ<span
+                            <a class="nav-link uline">РИСКИ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item ">

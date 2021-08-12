@@ -108,7 +108,7 @@
                             <a class="nav-link uline" href="/risks">РИСКИ</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ<span
+                            <a class="nav-link uline">КОНТАКТЫ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
 

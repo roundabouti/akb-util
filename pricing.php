@@ -114,7 +114,7 @@
                             <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА<span
+                            <a class="nav-link uline">ЦЕНА<span
                                 class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item ">

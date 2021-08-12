@@ -93,7 +93,7 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="#">ЧАСТНЫМ&nbsp&nbsp;ЛИЦАМ<span
+                            <a class="nav-link uline">ЧАСТНЫМ&nbsp&nbsp;ЛИЦАМ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                          <li class="nav-item dropdown">

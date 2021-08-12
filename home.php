@@ -135,7 +135,7 @@
                 <div class="collapse navbar-collapse align-items-center justify-content-center" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ<span
+                            <a class="nav-link uline">ГЛАВНАЯ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item">
