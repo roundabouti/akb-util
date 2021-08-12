@@ -3,9 +3,9 @@
 <?php get_header(); ?>
 
 
-<title>Утилизация аккумуляторных батарей в Москве - ООО Стандарт</title>
+<title>Прием и утилизация бу аккумуляторов в Москве | ООО Стандарт</title>
 <meta name="keywords" content="утилизация, батарея, аккумулятор, акб, стандарт, утиль, прием, сдать, бу, старый, москва, продать, дорого, скупка" />
-<meta name="description" content="Утилизацию старых АКБ в Москве предлагает ООО Стандарт. ✔Любая форма оплаты. ✔Сдача аккумуляторов на утилизацию по выгодной цене. " />
+<meta name="description" content="Сдать АКБ на утилизацию по высокой стоимости в компанию &#34;Стандарт&#34;. Cколько стоит старый аккумулятор на утилизацию можно узнать на нашем сайте akb-util.ru" />
 
 </head>
 <body>
@@ -136,7 +136,7 @@
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-12">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h1 class="text-danger-custom text-center text-xl-left">Утилизация аккумуляторных батарей</h1>
+                                        <h1 class="text-danger-custom text-center text-xl-left">Утилизация АКБ</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">

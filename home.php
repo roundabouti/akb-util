@@ -2,9 +2,9 @@
 
 <?php get_header(); ?>
 
- <title>Прием и утилизация бу аккумуляторов в Москве по ФККО - Стандарт</title>
+ <title>Прием б/у аккумуляторов в Москве | ООО Стандарт</title>
  <meta name="keywords" content="" />
-<meta name="description" content="Сдать старый аккумулятор дорого в Москве Вы можете в ООО Стандарт. ✔Любая форма оплаты. ✔Прием АКБ в течении трех часов." />
+<meta name="description" content="Сдать старый АКБ выгодно в компании &#34;Стандарт&#34;. Куда сдать старый аккумулятор? С пунктами приема б/у АКБ можно ознакомиться на нашем сайте akb-util.ru" />
 
 <meta name="twitter:card" content="Прием и утилизация б у аккумуляторов в Москве" />
 <meta name=”twitter:site” content="@akb-util.ru" /> 
@@ -596,7 +596,7 @@ endif;
                     <div class="row">
                         <div class="col-lg-3"></div>
                         <div class="col-lg-6">
-                            <h1 class="text-center pt-2">Прием и утилизация аккумуляторов</h1>
+                            <h1 class="text-center pt-2">Прием аккумуляторов (АКБ)</h1>
                             <div class="text-center text-secondary px-3"><small>Мы осуществляем приём и утилизацию
                                 аккумуляторов бу
                                 и свинцового лома у физических и юридических лиц по лучшим ценам в Москве. Оплата

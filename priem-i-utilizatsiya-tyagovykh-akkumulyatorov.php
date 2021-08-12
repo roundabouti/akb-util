@@ -2,9 +2,9 @@
 
 <?php get_header(); ?>
 
-<title>Утилизация тяговых аккумуляторов - ООО Стандарт</title>
+<title>Прием тяговых АКБ - цена в Москве | ООО Стандарт</title>
 <meta name="keywords" content="аккумулятор, акб, стандарт, тяговый, утилизация" />
-<meta name="description" content="Мы производим прием и профессиональную утилизацию аккумуляторного лома по выгодным ценам за кг" />
+<meta name="description" content="Сдать тяговые аккумуляторы по высокой цене в компанию &#34;Стандарт&#34;. Узнать приемные пункты по приему тяговых аккумуляторовможно на нашем сайте akb-util.ru" />
 
 </head>
 <body>
@@ -136,7 +136,7 @@
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-12">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h1 class="text-danger-custom text-center text-xl-left">Прием и утилизация тяговых аккумуляторов</h1>
+                                        <h1 class="text-danger-custom text-center text-xl-left">Прием тяговых аккумуляторов</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">
