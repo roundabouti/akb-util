@@ -27,7 +27,7 @@
             <div class="col-xl-5  justify-content-center align-self-center">
                 <div class="row py-2">
                     <div class="col-sm-2 d-flex align-items-center">
-                        <a href="/home">
+                        <a href="https://akb-util.ru/">
                             <img class="mx-auto d-none d-sm-block"  src="/images/standart-ooo-logo.svg" width="45"
                                  height="45">
                         </a>
@@ -88,7 +88,7 @@
                 <div class="collapse navbar-collapse align-items-center justify-content-center" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/home">ГЛАВНАЯ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
@@ -137,7 +137,7 @@
             <div class="col-12 ">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
-                        <li class="breadcrumb-item"><a href="/home">Главная</a></li>
+                        <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Посредникам</li>
                     </ol>
                 </nav>
@@ -204,7 +204,7 @@
                                         <div class="embed-responsive embed-responsive-16by9">
                                             <iframe
                                                     class="embed-responsive-item"
-                                                     src="/https://www.youtube.com/embed/vEG6yVYRK9c"
+                                                     src="https://www.youtube.com/embed/vEG6yVYRK9c"
                                                     srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}
                                                 span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>
                                                 <a href=https://www.youtube.com/embed/vEG6yVYRK9c?autoplay=1>
