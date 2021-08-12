@@ -2,9 +2,9 @@
 
 <?php get_header(); ?>
 
-<title>Вывоз и утилизация АКБ - ООО Стандарт</title>
+<title>Вывоз аккумуляторов б/у в Москве | ООО Стандарт</title>
 <meta name="keywords" content="аккумулятор, акб, стандарт, вывоз, утилизация" />
-<meta name="description" content="Оплату за вторсырье получите сразу наличными или по безналу (как вам удобно)." />
+<meta name="description" content="Мы осуществляем вывоз старых аккумуляторов (АКБ) в Москве. Оплату за вторсырье получите сразу наличными или по безнал, подробнее на сайте akb-util.ru" />
 
 </head>
 <body>
@@ -136,7 +136,7 @@
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-12">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h1 class="text-danger-custom text-center text-xl-left">Вывоз б/у аккумуляторов в Москве</h1>
+                                        <h1 class="text-danger-custom text-center text-xl-left">Вывоз АКБ</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">

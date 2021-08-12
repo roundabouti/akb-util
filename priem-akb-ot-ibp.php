@@ -2,9 +2,9 @@
 
 <?php get_header(); ?>
 
-<title>Прием аккумуляторов от ИБП цена до 67 руб/кг</title>
+<title>Прием бу аккумуляторов от ИБП - цена в Москве | ООО Стандарт</title>
 <meta name="keywords" content="" />
-<meta name="description" content="Самовывоз собственным транспортом из любой точки Москвы и соседних областей; удобная оплата и быстрый расчет, полностью легальная деятельность, предоставление всех документов для отчетности." />
+<meta name="description" content="Скупка аккумуляторов ИБП по выгодной цене - до 58 руб/кг. Скупка б/у АКБ от ИБП. Куда сдать аккумулятор от ИБП в Москве Вы можете узнать на сайте akb-util.ru" />
 
 </head>
 <body onload='calculateTotal()'>
@@ -480,7 +480,7 @@ endif;
                             <div class="row h-100 bg-white shadow panel p-0 m-0">
                                 <div class="p-3 col-lg-12">
                                     <div class="pl-0 pt-3 text-left">
-                                        <h1 class="text-danger-custom text-center text-xl-left">Прием АКБ от ИБП</h1>
+                                        <h1 class="text-danger-custom text-center text-xl-left">Прием аккумуляторов от ИБП</h1>
                                     </div>
                                     <hr class="m-0"/>
                                     <div class="pl-0 pr-1">
