@@ -90,7 +90,7 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                        <li class="nav-item dropdown">
                             	
@@ -99,7 +99,7 @@
                                     class="sr-only">(текущая страница)</span></a>
         </a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                   <a class="dropdown-item">Наши преимущества</a>     	
+                   <a class="dropdown-item" href="https://akb-util.ru/business/">Наши преимущества</a>     	
           <a class="dropdown-item" href="https://akb-util.ru/services/">Услуги</a>
     <a class="dropdown-item" href="https://akb-util.ru/info/">Юридическая информация</a>
     <a class="dropdown-item" href="https://akb-util.ru/faq/">Вопросы и ответы</a>
@@ -109,16 +109,16 @@
 
 </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -155,7 +155,7 @@
 
                                     <div class="pt-2 pl-0 text-left">
                                         <h1 class="text-danger-custom p-2">УТИЛИЗИРУЙТЕ АККУМУЛЯТОРЫ И СВИНЦОВЫЙ ЛОМ ПРАВИЛЬНО. ОБРАТИТЕСЬ В <a href="https://akb-util.ru/o-kompanii/">ООО "СТАНДАРТ"</a></h1>
-                                        <p class="px-2 mb-0 font-weight-bold">Принимаем аккумуляторы, свинцовый лом и отходы, всех видов и в любом состоянии включенных в ФККО или по ГОСТ 16.392009. Подробнее о наших <a href="/services">услугах.</a> Ответы на часто задаваемые вопросы можно найти в разделе <a href="https://akb-util.ru/faq/">Вопросы и ответы</a> и <a href="https://akb-util.ru/info/">Юридическая информация</a></p>
+                                        <p class="px-2 mb-0 font-weight-bold">Принимаем аккумуляторы, свинцовый лом и отходы, всех видов и в любом состоянии включенных в ФККО или по ГОСТ 16.392009. Подробнее о наших <a href="/services/">услугах.</a> Ответы на часто задаваемые вопросы можно найти в разделе <a href="https://akb-util.ru/faq/">Вопросы и ответы</a> и <a href="https://akb-util.ru/info/">Юридическая информация</a></p>
                                         <p class="p-2">
 
                                             <ul class="red">

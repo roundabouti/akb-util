@@ -81,7 +81,7 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                         
                         
@@ -103,16 +103,16 @@
 
 </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -132,7 +132,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
-                        <li class="breadcrumb-item"><a href="/business">Организациям</a></li>
+                        <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
                          <li class="breadcrumb-item"><a href="/company">О компании</a></li>
 <li class="breadcrumb-item active" aria-current="page">Акции</li>
                     </ol>

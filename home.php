@@ -139,7 +139,7 @@
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="https://akb-util.ru/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                         
                         
@@ -159,16 +159,16 @@
 
 </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="https://akb-util.ru/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="https://akb-util.ru/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="https://akb-util.ru/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="https://akb-util.ru/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="https://akb-util.ru/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -1097,7 +1097,7 @@ endif;
                             <div class="pl-0 pr-1">
                                 <p class="small mb-2">Чтобы сдать аккумуляторы или свинцовый лом, Вам нужно приехать в
                                     наши
-                                    пункты приема (их адреса и схемы проезда указаны на странице <a href="https://akb-util.ru/contacts">"Контакты"</a>).
+                                    пункты приема (их адреса и схемы проезда указаны на странице <a href="https://akb-util.ru/contacts/">"Контакты"</a>).
                                     <br>Мы работаем с 9-00 до 18-00 (понедельник - пятница).
                                     <br> Или мы заберем все сами от 100 кг в течении 3 часов!
                                     <br>Это действительно так – звоните нам.</p>
@@ -1171,7 +1171,7 @@ endif;
                                     виды оплаты. Наличный, безналичный, смешанный. Все лицензии
                                     имеются.</p>
 
-                                <p class="small">Подробнее тут: <a href="https://akb-util.ru/business">приём свинцового лома от
+                                <p class="small">Подробнее тут: <a href="https://akb-util.ru/business/">приём свинцового лома от
                                     организаций</a></p>
                             </div>
                         </div>
@@ -1211,7 +1211,7 @@ endif;
                             </div>
                             <div class="row pb-3 ">
                                 <div class="col-12 font-weight-bold small">
-                                    <div class="pl-0 pr-1">В разделе&nbsp;<a href="https://akb-util.ru/pricing">Цена скупки аккумуляторов</a>
+                                    <div class="pl-0 pr-1">В разделе&nbsp;<a href="https://akb-util.ru/pricing/">Цена скупки аккумуляторов</a>
                                         примеры оплаты показаны подробнее.
                                     </div>
                                 </div>
@@ -1228,7 +1228,7 @@ endif;
         <div data-aos="zoom-in-down" data-aos-duration="300">
             <div class="col-lg-12 text-secondary center-block text-center font-weight-bold">ВПЕРВЫЕ СДАЕТЕ
                 АККУМУЛЯТОРЫ?
-                УЗНАЙТЕ,&nbsp;<a href="https://akb-util.ru/contacts">КАК ЭТО СДЕЛАТЬ</a></div>
+                УЗНАЙТЕ,&nbsp;<a href="https://akb-util.ru/contacts/">КАК ЭТО СДЕЛАТЬ</a></div>
         </div>
 
         <div data-aos="zoom-in-down" data-aos-duration="300">

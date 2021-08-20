@@ -79,23 +79,23 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline active" href="/business">ОРГАНИЗАЦИЯМ<span
+                            <a class="nav-link uline active" href="/business/">ОРГАНИЗАЦИЯМ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -115,8 +115,8 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
-                        <li class="breadcrumb-item"><a href="/business">Организациям</a></li>
-                        <li class="breadcrumb-item"><a href="/services">Услуги</a></li>
+                        <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
+                        <li class="breadcrumb-item"><a href="/services/">Услуги</a></li>
 <li class="breadcrumb-item active" aria-current="page">Цена скупки</li>
                     </ol>
                 </nav>
@@ -231,7 +231,7 @@
                                                     <div class="table-td"><b>6 СТ — 225</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 58 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -241,7 +241,7 @@
                                                     <div class="table-td"><b>6 СТ — 190</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 56 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -251,7 +251,7 @@
                                                     <div class="table-td"><b>6 СТ — 132</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 56 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -261,7 +261,7 @@
                                                     <div class="table-td"><b>6 СТ — 100</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 55 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -271,7 +271,7 @@
                                                     <div class="table-td"><b>6 СТ — 75</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 55 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -281,7 +281,7 @@
                                                     <div class="table-td"><b>6 СТ — 55</b></div>
                                                 </div>
                                                 <div class="col-6 p-0">
-                                                    <div class="table-td">до 55 руб.</div>
+                                                    <div class="table-td">до 76 руб.</div>
                                                 </div>
                                             </div>
                                         </div>

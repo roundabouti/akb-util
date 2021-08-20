@@ -80,23 +80,23 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline active" href="/business">ОРГАНИЗАЦИЯМ<span
+                            <a class="nav-link uline active" href="/business/">ОРГАНИЗАЦИЯМ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -116,8 +116,8 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
-                        <li class="breadcrumb-item"><a href="/business">Организациям</a></li>
-                        <li class="breadcrumb-item"><a href="/services">Услуги</a></li>
+                        <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
+                        <li class="breadcrumb-item"><a href="/services/">Услуги</a></li>
 <li class="breadcrumb-item active" aria-current="page">Статьи и документы</li>
                     </ol>
                 </nav>
@@ -184,9 +184,9 @@
                                     <div class="pl-0 pt-3 text-left">
 
                                         <ul class="red">
-                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/pochemu-akkumulyator-nachal-nepriyatno-pakhnut">Неприятный запах от автомобильного аккумулятора</a></li>
-                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/kuda-devat-elektrolit-iz-akkumulyatora">Куда девать электролит из аккумулятора?</a></li>
-                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/opasen-li-vzduvshiysya-avtomobilnyy-akkumulyator">Опасен ли вздувшийся автомобильный аккумулятор?</a></li>
+                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/pochemu-akkumulyator-nachal-nepriyatno-pakhnut/">Неприятный запах от автомобильного аккумулятора</a></li>
+                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/kuda-devat-elektrolit-iz-akkumulyatora/">Куда девать электролит из аккумулятора?</a></li>
+                                            <li><a href="https://akb-util.ru/services/stati-i-dokumenty/opasen-li-vzduvshiysya-avtomobilnyy-akkumulyator/">Опасен ли вздувшийся автомобильный аккумулятор?</a></li>
                                             <li><a href="https://akb-util.ru/services/stati-i-dokumenty/pochemu-akkumulyator-kipit/">Почему аккумулятор кипит?</a></li>
                                              <li><a href="https://akb-util.ru/services/stati-i-dokumenty/korotkoe-zamykanie-akb/">Короткое замыкание АКБ</a></li>
                                               <li><a href="https://akb-util.ru/services/stati-i-dokumenty/pochemu-greyutsya-klemmy-na-akkumulyatore/">Почему греются клеммы на аккумуляторе</a></li>

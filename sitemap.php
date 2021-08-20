@@ -4,7 +4,7 @@
 
 <title>Карта сайта - ООО Стандарт</title>
 <meta name="keywords" content="аккумулятор, акб, стандарт, новости" />
-<meta name="description" content="Список основных страниц компании ООО Стандарт. Ознакомиться со списком услуг Вы можете на нашем сайте." />
+<meta name="description" content="Новости рынка утилизации свинца в России" />
 
 </head>
 <body>
@@ -80,23 +80,23 @@
                             <a class="nav-link uline" href="https://akb-util.ru/">ГЛАВНАЯ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/retail">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
+                            <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline active" href="/business">ОРГАНИЗАЦИЯМ<span
+                            <a class="nav-link uline active" href="/business/">ОРГАНИЗАЦИЯМ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/posrednikam">ПОСРЕДНИКАМ</a>
+                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/pricing">ЦЕНА</a>
+                            <a class="nav-link uline" href="/pricing/">ЦЕНА</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link uline" href="/risks">РИСКИ</a>
+                            <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link uline" href="/contacts">КОНТАКТЫ</a>
+                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ</a>
                         </li>
 
                     </ul>
@@ -116,7 +116,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb pl-3 my-0">
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
-                        <li class="breadcrumb-item"><a href="/business">Организациям</a></li>
+                        <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Карта сайта</li>
                     </ol>
                 </nav>
