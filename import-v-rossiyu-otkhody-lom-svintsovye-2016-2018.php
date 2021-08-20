@@ -83,10 +83,21 @@
                         <li class="nav-item">
                             <a class="nav-link uline" href="/retail/">ЧАСТНЫМ&nbsp;ЛИЦАМ</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link uline active" href="/business/">ОРГАНИЗАЦИЯМ<span
-                                    class="sr-only">(текущая страница)</span></a>
-                        </li>
+                        <li class="nav-item dropdown">
+                                
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          ОРГАНИЗАЦИЯМ
+        </a>
+                       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                   <a class="dropdown-item" href="https://akb-util.ru/business/">Наши преимущества</a>      
+          <a class="dropdown-item" href="https://akb-util.ru/services/">Услуги</a>
+    <a class="dropdown-item" href="https://akb-util.ru/info/">Юридическая информация</a>
+    <a class="dropdown-item" href="https://akb-util.ru/faq/">Вопросы и ответы</a>
+    <a class="dropdown-item" href="https://akb-util.ru/o-kompanii/">О компании</a>
+    
+        </div>      
+
+</li>
                         <li class="nav-item ">
                             <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ</a>
                         </li>

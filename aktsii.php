@@ -97,7 +97,7 @@
           <a class="dropdown-item" href="https://akb-util.ru/services/">Услуги</a>
     <a class="dropdown-item" href="https://akb-util.ru/info/">Юридическая информация</a>
     <a class="dropdown-item" href="https://akb-util.ru/faq/">Вопросы и ответы</a>
-    
+    <a class="dropdown-item" href="https://akb-util.ru/o-kompanii/">О компании</a>
     
         </div>     	
 
