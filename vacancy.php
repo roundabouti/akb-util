@@ -129,7 +129,7 @@
                     <ol class="breadcrumb pl-3 my-0">
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
                         <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
-                         <li class="breadcrumb-item"><a href="/company/">О компании</a></li>
+                         <li class="breadcrumb-item"><a href="https://akb-util.ru/o-kompanii/">О компании</a></li>
 <li class="breadcrumb-item active" aria-current="page">Вакансии</li>
                     </ol>
                 </nav>
