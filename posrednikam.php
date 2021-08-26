@@ -109,7 +109,7 @@
 
 </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="/posrednikam/">ПОСРЕДНИКАМ<span
+                            <a class="nav-link uline">ПОСРЕДНИКАМ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
                         <li class="nav-item">

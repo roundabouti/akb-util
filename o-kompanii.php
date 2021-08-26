@@ -173,7 +173,8 @@
         <li>Забор неподготовленного лома из разных точек и в разном виде с погрузкой.</li>
         <li>Прямые договоры с заводами-переработчиками – лучшие заводы работают с нами по особым условиям.</li>
     </ol>
-    <p class="pt-2"><a href="https://akb-util.ru/o-kompanii/partnery/">Наши партнеры</a></p>
+    <p class="pt-2"><a href="https://akb-util.ru/o-kompanii/partnery/">Наши партнеры</a> &emsp; <a href="https://akb-util.ru/o-kompanii/aktsii/">Акции</a> &emsp; <a href="https://akb-util.ru/o-kompanii/vacancy/">Вакансии</a>
+    </p>
                                 </div>
                             
                             </div>

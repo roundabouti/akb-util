@@ -172,6 +172,17 @@
                                        <li><a href="https://akb-util.ru/risks/">Риски</a></li>
                                        <li><a href="https://akb-util.ru/contacts/">Контакты</a></li>
                                        <li><a href="https://akb-util.ru/services/">Услуги</a></li>
+                                            <ul class="red"> 
+                                                <li><a href="https://akb-util.ru/services/stati-i-dokumenty/">Статьи и документы</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-akb-ot-ibp/">Прием АКБ от ИБП</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-i-utilizatsiya-tyagovykh-akkumulyatorov/">Приём и утилизация тяговых аккумуляторов</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-gelevykh-akkumulyatorov/">Приём гелевых аккумуляторов</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-avtomobilnykh-akkumulyatorov/">Приём автомобильных аккумуляторов</a></li>
+                                                <li><a href="https://akb-util.ru/services/tsena-skupki/">Цена скупки</a></li>
+                                                <li><a href="https://akb-util.ru/services/vyvoz-akb/">Вывоз АКБ</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-svintsa/">Приём свинца</a></li>
+                                                <li><a href="https://akb-util.ru/services/priem-svintsovykh-akkumulyatorov/">Приём свинцовых аккумуляторов</a></li>
+                                            </ul>
                                        <li><a href="https://akb-util.ru/faq/">Вопросы и ответы</a></li>
                                        <li><a href="https://akb-util.ru/news/">Новости</a></li>
 

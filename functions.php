@@ -34,7 +34,16 @@ remove_action('wp_head', 'wp_oembed_add_discovery_links', 10);
 remove_action('template_redirect', 'rest_output_link_header', 11, 0);
 add_filter('show_admin_bar', 'is_blog_admin');
 
+add_filter( 'wp_sitemaps_add_provider', 'truemisha_remove_user_sitemap', 25, 2 );
  
+function truemisha_remove_user_sitemap( $provider, $name ) {
+ 
+   if ( 'users' === $name ) {
+      return false;
+   }
+   return $provider;
+ 
+}
  
  
  function rel2abs($rel, $base)

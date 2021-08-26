@@ -93,7 +93,7 @@
           <a class="dropdown-item" href="https://akb-util.ru/services/">Услуги</a>
     <a class="dropdown-item" href="https://akb-util.ru/info/">Юридическая информация</a>
     <a class="dropdown-item" href="https://akb-util.ru/faq/">Вопросы и ответы</a>
-    
+    <a class="dropdown-item" href="https://akb-util.ru/o-kompanii/">О компании</a>
     
         </div>     	
 
@@ -108,7 +108,7 @@
                             <a class="nav-link uline" href="/risks/">РИСКИ</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link uline" href="/contacts/">КОНТАКТЫ<span
+                            <a class="nav-link uline">КОНТАКТЫ<span
                                     class="sr-only">(текущая страница)</span></a>
                         </li>
 

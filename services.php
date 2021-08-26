@@ -89,7 +89,7 @@
         </a>
                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                    <a class="dropdown-item" href="https://akb-util.ru/business/">Наши преимущества</a>      
-          <a class="dropdown-item" href="https://akb-util.ru/services/">Услуги</a>
+          <a class="dropdown-item">Услуги</a>
     <a class="dropdown-item" href="https://akb-util.ru/info/">Юридическая информация</a>
     <a class="dropdown-item" href="https://akb-util.ru/faq/">Вопросы и ответы</a>
     <a class="dropdown-item" href="https://akb-util.ru/o-kompanii/">О компании</a>

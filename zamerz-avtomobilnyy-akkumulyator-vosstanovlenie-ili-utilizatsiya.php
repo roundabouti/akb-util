@@ -129,7 +129,7 @@
                         <li class="breadcrumb-item"><a href="https://akb-util.ru/">Главная</a></li>
                         <li class="breadcrumb-item"><a href="/business/">Организациям</a></li>
                         <li class="breadcrumb-item"><a href="/services/">Услуги</a></li>
-                        <li class="breadcrumb-item"><a href="/services/stati-i-dokumenty//">Статьи и документы</a></li>
+                        <li class="breadcrumb-item"><a href="/services/stati-i-dokumenty/">Статьи и документы</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Замерз автомобильный аккумулятор: восстановление или утилизация</li>
                     </ol>
                 </nav>
